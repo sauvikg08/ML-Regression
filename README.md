@@ -7,11 +7,11 @@ The objective of this project is to explore the relationship between student cha
 ## Dataset
 The dataset used in this project is from Kaggle's Students Performance in Exams dataset. The dataset consists of the following columns:
 
-gender: Gender of the student.
-race/ethnicity: A categorical variable representing the student's race or ethnicity.
-parental level of education: The highest level of education attained by the student's parents.
-lunch: The type of lunch the student receives (standard or free/reduced).
-test preparation course: Whether or not the student completed a test preparation course.
+* gender: Gender of the student.
+* race/ethnicity: A categorical variable representing the student's race or ethnicity.
+* parental level of education: The highest level of education attained by the student's parents.
+* lunch: The type of lunch the student receives (standard or free/reduced).
+* test preparation course: Whether or not the student completed a test preparation course.
 
 ## Project Workflow
 
